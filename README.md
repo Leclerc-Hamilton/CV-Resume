@@ -1,5 +1,5 @@
 # My Personal CV & Resume
-## Hiring me & discussing questions:
-Please contact me with twang53@CougarNet.UH.EDU
-## Interested in my resume:
-Please look the specific files in branches
+## Discussing questions:
+Please contact me via: twang53@CougarNet.UH.EDU
+## Interested in my Resume:
+Please download the release on the right hand side.
